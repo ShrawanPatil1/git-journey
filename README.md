@@ -1,6 +1,5 @@
 git and GitHub
 
-
 1st (WORKING DERECTOR)
 installation
 
@@ -68,7 +67,6 @@ com: git pull
 
 com: git restore --staged .
 com: git restore --staged 'filename'
-
 
 
 ALL IN ONE
